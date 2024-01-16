@@ -16,3 +16,4 @@ int main()
 	std::cout << "FF: " << FF(1, 2) << std::endl;
 	std::cout << "a,b: " << a << "," << b << std::endl;
 }
+//关键点在于预处理阶段只做宏定义的简单替换
